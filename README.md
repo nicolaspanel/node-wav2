@@ -1,4 +1,4 @@
-node-wav__2__
+node-wav2
 ========
 ### `Reader` and `Writer` streams for Microsoft WAVE audio files
 [![Build Status](https://secure.travis-ci.org/TooTallNate/node-wav.svg)](http://travis-ci.org/TooTallNate/node-wav)
@@ -27,7 +27,7 @@ Here's how you would play a standard PCM WAVE file out of the speakers using
 
 ``` javascript
 var fs = require('fs');
-var wav = require('wav');
+var wav = require('wav2');
 var Speaker = require('speaker');
 
 var file = fs.createReadStream('track01.wav');
