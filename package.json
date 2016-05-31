@@ -1,8 +1,11 @@
 {
-  "name": "wav",
+  "name": "wav2",
   "description": "`Reader` and `Writer` streams for Microsoft WAVE audio files",
   "version": "1.0.0",
   "author": "Nathan Rajlich <nathan@tootallnate.net>",
+  "maintainers": [
+    "Nicolas Panel <nicolas.panel@live.fr>"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/TooTallNate/node-wav.git"

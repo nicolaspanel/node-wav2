@@ -1,4 +1,4 @@
-node-wav
+node-wav__2__
 ========
 ### `Reader` and `Writer` streams for Microsoft WAVE audio files
 [![Build Status](https://secure.travis-ci.org/TooTallNate/node-wav.svg)](http://travis-ci.org/TooTallNate/node-wav)
@@ -6,13 +6,16 @@ node-wav
 This module offers streams to help work with Microsoft WAVE files.
 
 
+### Credits
+This repo is just a fork from [node-wav](https://github.com/TooTallNate/node-wav) with few fixes.
+
 Installation
 ------------
 
 Install through npm:
 
 ``` bash
-$ npm install wav
+$ npm install wav2
 ```
 
 
