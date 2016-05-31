@@ -1,7 +1,7 @@
 node-wav2
 ========
 ### `Reader` and `Writer` streams for Microsoft WAVE audio files
-[![Build Status](https://secure.travis-ci.org/TooTallNate/node-wav.svg)](http://travis-ci.org/TooTallNate/node-wav)
+[![Build Status](https://secure.travis-ci.org/nicolaspanel/node-wav2.svg)](http://travis-ci.org/nicolaspanel/node-wav2)
 
 This module offers streams to help work with Microsoft WAVE files.
 
